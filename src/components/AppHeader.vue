@@ -19,7 +19,7 @@
     top: 0;
     width: 100%;
     max-width: 100vw;
-    background: white;
+    background: black;
     backdrop-filter: blur(10px);
     padding: 12px 0;
     z-index: 50;
